@@ -1,2 +1,2 @@
 # Basic-Image-PopUp
-Functioning with JavaScript
+Functioning with JQ
